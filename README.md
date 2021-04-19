@@ -1,3 +1,3 @@
-# LarsMagne-debug.github.io
+# tungland.github.io
 
-Webpage created as part of the codecademy javascript course
+A webpage
